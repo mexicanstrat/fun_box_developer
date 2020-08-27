@@ -1,0 +1,7 @@
+.CardsContainer {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    max-width: 1245px;
+    margin: 0 auto;
+}

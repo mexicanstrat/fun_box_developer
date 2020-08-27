@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Exo2.0-thin'; 
+  src: url(../assets/fonts/Exo2.0-Thin.otf);
+}
+
+:root {
+    --main-font: 'Exo2.0-thin', sans-serif;
+    --add-font: 'Trebuchet MS', sans-serif;
+    --background-card-pack-color: #fff;
+    --border-default-color: #1698d9;
+    --border-defaultHover-color: #2ea8e6;
+    --border-selected-color: #d91667;
+    --border-selectedHover-color: #e52e7a;
+    --border-disabled-color: #b3b3b3;
+    --grey-font-color: #666666;
+    --black-font-color: #000;
+    --main-padding-desktop: 0 17%;
+  }
